@@ -10,18 +10,12 @@ Die oberen und unteren Grenzen des Toleranzbands werden basierend auf dem gleite
 Obere Grenze
 =
 Mittelwert
-+
-2
- 
-𝜇
-m/m
++2𝜇m/m
 Obere Grenze=Mittelwert+2μm/m
 Untere Grenze
-=
-Mittelwert
-−
-2
- 
+=Mittelwert
+
+
 𝜇
 m/m
 Untere Grenze=Mittelwert−2μm/m
